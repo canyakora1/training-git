@@ -1,1 +1,5 @@
-This is my first training session with git
+This is my first training session with git.
+
+Thank you.
+
+Chinedu
